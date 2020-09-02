@@ -32,10 +32,6 @@ This is my result on the competetion.
 ![report](images/risultatiOttenuti2.PNG)
 
 
-### Confusion Matrix
-
-
-
 ## Contributors
 <table>
   <tr>
